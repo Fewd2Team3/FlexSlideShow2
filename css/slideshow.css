@@ -1,0 +1,36 @@
+/*
+.fa-arrow-left, .fa-arrow-right {
+    position: relative;
+    top: 25px;
+}
+.fa-arrow-right {
+    left: 932px;
+}
+*/
+
+/* unvisited link */
+
+div {
+    margin: 0;
+    width: 960px;
+}
+ 
+ul {
+    display: inline;
+    position: relative;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    font-size: 1.3em;
+/*    float: left;*/
+    margin-right: .5em;
+}
+
+.simpleslides {
+    width: 960px;
+    text-align: center;
+    position: relative;
+    top: 175px;
+}
